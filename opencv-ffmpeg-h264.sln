@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "opencv-ffmpeg-h264", "opencv-ffmpeg-h264\opencv-ffmpeg-h264.vcxproj", "{957636B0-CBA3-4314-ACED-0EC1497C8B8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{957636B0-CBA3-4314-ACED-0EC1497C8B8F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{957636B0-CBA3-4314-ACED-0EC1497C8B8F}.Debug|Win32.Build.0 = Debug|Win32
+		{957636B0-CBA3-4314-ACED-0EC1497C8B8F}.Release|Win32.ActiveCfg = Release|Win32
+		{957636B0-CBA3-4314-ACED-0EC1497C8B8F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
